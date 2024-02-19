@@ -21,12 +21,12 @@ const questions = [{
     message: `How do you use this application?`
 },{
     type: 'input',
-    name: 'contribute',
-    message: 'how to'
+    name: 'contributing',
+    message: 'how did you contribute to this project?'
 },{
     type: 'input',
     name: 'test',
-    message: 'How to test?'
+    message: 'How to test the application?'
 },{
     type: 'list',
     name: 'license',
@@ -35,7 +35,7 @@ const questions = [{
 },
 {
     type: 'input',
-    name: 'contact',
+    name: 'questions',
     message: 'What is your email and github username?'
 }];
 

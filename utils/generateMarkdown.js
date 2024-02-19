@@ -37,11 +37,10 @@ function renderLicenseBadge(license) {
   
   - [Installation](#installation)
   - [Usage](#usage)
-  - [Credits](#credits)
   - [License](#license)
-  - [Contribute](#contribute)
+  - [Contributing](#contributing)
   - [Test](#test)
-  - [Contact Information](#contact)
+  - [Questions](#questions)
   
   ## Installation
   
@@ -51,20 +50,19 @@ function renderLicenseBadge(license) {
   
   ${data.usage}
   
-  
   ## License
   ${data.license}
   
-  ## How to Contribute
+  ## Contributing
   
-  ${data.contribute}
+  ${data.contributing}
    
-  ## Tests
+  ## Test
   
   ${data.test}
   
-  ## Contact Information
-  ${data.contact}
+  ## Questions
+  ${data.questions}
   
   
   `;
