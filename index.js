@@ -22,7 +22,7 @@ const questions = [{
 },{
     type: 'input',
     name: 'contributing',
-    message: 'how did you contribute to this project?'
+    message: 'Who helped contribute to this project?'
 },{
     type: 'input',
     name: 'test',

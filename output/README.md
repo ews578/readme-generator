@@ -1,4 +1,4 @@
-# readme generator
+# Readme Generator
   [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
   ## Description
   
@@ -21,21 +21,21 @@
   
   ## Usage
   
-  by installing node js
+  with node js
   
   ## License
   MIT
   
   ## Contributing
   
-  by deisng
+  myself, tutors, and TA's 
    
   ## Test
   
-  test test
+  test 123
   
   ## Questions
-  ews579 eric@mail.com
+  ews579@github.com eric@mail.com
   
   
   
